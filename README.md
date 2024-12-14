@@ -201,6 +201,9 @@ Future Improvements
 - Enhance security with JWT-based authentication.
 - Implement an admin dashboard for better management.
 
+log in credentials
+email:test@gmail.com
+password:bill123
 
 
 This documentation provides a complete guide to understanding and working with the Canteen Ordering System.
