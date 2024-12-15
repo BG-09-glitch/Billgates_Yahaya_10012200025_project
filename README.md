@@ -43,7 +43,7 @@ Features and Requirements
 
 
 
-4. Order Tracking & Loyalty Program (15 Marks)**
+4. Order Tracking & Loyalty Program 
 -Purpose: Enhance the user experience with tracking and loyalty rewards.
 - Key Features:
   - Order Tracking:
