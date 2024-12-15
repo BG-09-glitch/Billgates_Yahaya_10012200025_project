@@ -14,7 +14,7 @@ Features and Requirements
 - Key Components:
   - Registration: Collects user details (e.g., name, email, password, dietary restrictions, and allergies).
   - Login:Authenticates users using email and password.
-  - Profile Management**: Stores user preferences such as dietary restrictions and allergies in the database.
+  - Profile Management: Stores user preferences such as dietary restrictions and allergies in the database.
 
 
 
