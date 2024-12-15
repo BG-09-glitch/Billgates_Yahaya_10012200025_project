@@ -4,12 +4,12 @@ Web technologies final Exam project
 Canteen Ordering System documentation 
 
 Overview
-This project is a responsive **Canteen Ordering System** designed to enable students and staff to browse a canteen menu, customize orders, and track them in real time. It also includes user registration, profile management, and a loyalty program. This documentation explains the key features, functionality, and structure of the system.
+This project is a responsive Canteen Ordering System designed to enable students and staff to browse a canteen menu, customize orders, and track them in real time. It also includes user registration, profile management, and a loyalty program. This documentation explains the key features, functionality, and structure of the system.
 
 
 
 Features and Requirements
-1. User Registration & Profile Management (15 Marks)**
+1. User Registration & Profile Management 
 - Purpose: Allow users to securely register, log in, and manage their profiles.
 - Key Components:
   - Registration: Collects user details (e.g., name, email, password, dietary restrictions, and allergies).
@@ -18,7 +18,7 @@ Features and Requirements
 
 
 
-2. Menu Display & Customization (15 Marks)
+2. Menu Display & Customization 
 - Purpose: Display a dynamic menu with customizable options.
 - Key Features:
   - Displays menu items with:
