@@ -1,6 +1,8 @@
 # Billgates_Yahaya_10012200025_project
 Web technologies final Exam project
 
+#Link to main repo - https://github.com/BG-09-glitch/BillGates_Project
+#Deployment links - 
 Canteen Ordering System documentation 
 
 Overview
