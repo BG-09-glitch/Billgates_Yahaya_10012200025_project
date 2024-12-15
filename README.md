@@ -2,7 +2,10 @@
 Web technologies final Exam project
 
 #Link to main repo - https://github.com/BG-09-glitch/BillGates_Project
-#Deployment links - 
+
+
+#Deployment links - https://mellow-lolly-0fcdc1.netlify.app/
+#Backend deployment link - https://billgates-project.onrender.com
 Canteen Ordering System documentation 
 
 Overview
